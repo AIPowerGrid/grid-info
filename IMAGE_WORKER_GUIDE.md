@@ -64,14 +64,6 @@ The current image worker is a fork of the Horde Worker reGen, specifically confi
   - Flux Krea
   - Flux Chroma
 
-**Popular Models on AIPG**
-- `grid-flux-krea-image-gen` - Flux Krea for creative image generation
-- `grid-flux1-image-gen` - Flux.1 for high-quality images
-- `grid-sdxl-image-gen` - SDXL for detailed generations
-- `grid-chroma-image-gen` - Chroma for color-focused images
-- `grid-flux-kontext-image2image` - Flux Kontext for image-to-image
-- `wan22-video-gen` - Video generation (experimental)
-
 **Custom Models**
 - Thousands of community checkpoints
 - LoRA models for style control
