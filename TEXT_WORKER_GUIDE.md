@@ -295,19 +295,17 @@ Open your browser to `http://localhost:5001` to configure AIPG integration and s
 - Network demand (varies by time of day)
 - Context length and generation length
 
-### Estimated Earnings
+### Earnings
 
-**Conservative Estimates** (varies with network demand)
+Earnings vary significantly based on:
+- Network demand for AI services
+- Your GPU performance and speed
+- Model popularity and availability
+- Uptime and reliability
+- Context length and generation parameters
+- Network conditions
 
-| GPU | Daily AIPG | Monthly AIPG | Notes |
-|-----|-----------|--------------|-------|
-| GTX 1660 (6GB) | 50-150 | 1,500-4,500 | Small models only |
-| RTX 3060 (12GB) | 100-500 | 3,000-15,000 | Good balance |
-| RTX 3090 (24GB) | 300-1,000 | 9,000-30,000 | Large models |
-| RTX 4090 (24GB) | 500-2,000 | 15,000-60,000 | Maximum performance |
-| A100 (80GB) | 1,000-5,000 | 30,000-150,000 | Data center GPU |
-
-*Note: Actual earnings vary significantly based on network demand, uptime, and configuration*
+Contact the community on Discord for real worker earnings data and experiences from active workers.
 
 ### Maximizing Earnings
 

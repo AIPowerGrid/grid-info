@@ -264,11 +264,10 @@ OmniForge provides a more user-friendly experience for running GGUF models direc
 - Popular models generate more requests
 - 24/7 operation maximizes earnings
 
-**Example Earnings** (Illustrative)
-- RTX 3060: ~100-500 AIPG/day
-- RTX 4090: ~500-2000 AIPG/day
-- Data center GPU: ~1000-5000 AIPG/day
-- *Actual earnings vary based on demand and uptime*
+**Earnings Information**
+- Earnings vary significantly based on network demand, GPU performance, uptime, and configuration
+- Contact the community on Discord for real earnings data from active workers
+- Factors include: model type, generation speed, network conditions, and availability
 
 ## Worker Infrastructure
 

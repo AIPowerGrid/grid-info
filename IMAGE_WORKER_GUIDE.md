@@ -237,19 +237,17 @@ horde-bridge-directml.cmd
   - Post-processing (upscaling, face fix)
   - ControlNet usage
 
-### Estimated Earnings
+### Earnings
 
-**Conservative Estimates** (varies with network demand)
+Earnings vary significantly based on:
+- Network demand
+- Your GPU performance
+- Uptime and availability
+- Model types you serve
+- Image resolution and complexity
+- Post-processing features enabled
 
-| GPU | Daily AIPG | Monthly AIPG | Models |
-|-----|-----------|--------------|--------|
-| GTX 1660 (6GB) | 50-200 | 1,500-6,000 | SD 1.5 only |
-| RTX 3060 (12GB) | 200-1,000 | 6,000-30,000 | SD 1.5, SDXL |
-| RTX 3090 (24GB) | 500-2,000 | 15,000-60,000 | All models |
-| RTX 4090 (24GB) | 1,000-5,000 | 30,000-150,000 | All models, fast |
-| A100 (80GB) | 2,000-10,000 | 60,000-300,000 | Multiple workers |
-
-*Note: Actual earnings vary based on network demand, uptime, and configuration*
+Contact the community on Discord for real worker earnings data and experiences.
 
 ### Kudos System
 
