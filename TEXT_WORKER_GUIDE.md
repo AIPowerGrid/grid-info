@@ -230,22 +230,30 @@ Open your browser to `http://localhost:5001` to configure AIPG integration and s
 
 ### Recommended Models by GPU
 
+**Current Popular Models**
+- **GLM 4.6**: Latest GLM model
+- **MiniMax M2**: High-quality generation
+- **OpenAI OSS 120B**: Large open-source model
+- **OpenAI OSS 20B**: Medium-sized efficient model
+- **Qwen3 A3B**: Latest Qwen 3 series
+- **Qwen3 Coder**: Specialized for code generation
+- **DeepSeek**: Strong reasoning capabilities
+
+**By VRAM Capacity**
+
 **6-8GB VRAM**
-- Llama 3 8B Q4_K_M
-- Mistral 7B Q4_K_M
-- Phi-3 Mini Q4_K_M
-- Gemma 7B Q4_K_M
+- Qwen3 A3B Q4_K_M
+- Smaller quantized models
 
 **12-16GB VRAM**
-- Llama 3 8B Q8_0 (higher quality)
-- Mixtral 8x7B Q4_K_M (quantized)
-- Qwen 2 14B Q4_K_M
-- CodeLlama 13B Q5_K_M
+- OpenAI OSS 20B Q4_K_M
+- Qwen3 Coder Q4_K_M
+- DeepSeek Q4_K_M
 
 **24GB+ VRAM**
-- Llama 3 70B Q4_K_M
-- Mixtral 8x7B Q5_K_M or Q8_0
-- Qwen 2 72B Q4_K_M
+- OpenAI OSS 120B Q4_K_M
+- GLM 4.6 Q4_K_M
+- MiniMax M2 Q4_K_M
 - Multiple models simultaneously
 
 ### Model Formats Explained
