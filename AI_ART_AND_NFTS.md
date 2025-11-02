@@ -68,6 +68,11 @@ User Submits Prompt → Smart Routing → Available Image Worker
 - Stable Diffusion 1.5
 - Stable Diffusion XL (SDXL)
 - Stable Diffusion 2.1
+- Flux (all variants)
+  - Flux.1 Schnell
+  - Flux.1 Dev
+  - Flux Krea
+  - Flux Chroma
 
 **Custom Checkpoints**
 - Realistic Vision
