@@ -6,7 +6,6 @@ AIPG was delisted from NonKYC.io due to the exchange owner's unprofessional beha
 
 ## Background
 
-During the Base migration, our bridge from legacy PoW to Base EVM was exploited due to bridge confirmation settings being set too low. Fake AIPG was minted on Base while the real coins remained on the legacy PoW chain. Every token and liquidity pool was immediately pulled from exchanges as soon as the issue was discovered.
 
 When we reached out to NonKYC.io to report the bridge exploit and coordinate a response, the exchange owner responded unprofessionally and was completely unhelpful. The exchange had previously closed legacy deposits but had reopened them without clear communication. When questioned about why legacy deposits were enabled again, the exchange owner lashed out and acted like a douchebag, leading to the immediate decision to withdraw all funds and liquidity.
 
