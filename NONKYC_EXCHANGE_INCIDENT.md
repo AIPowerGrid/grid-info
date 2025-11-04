@@ -6,7 +6,7 @@ AIPG was delisted from NonKYC.io due to the exchange owner's unprofessional beha
 
 ## Background
 
-During the Base migration, the exchange had previously closed legacy deposits but had reopened them without clear communication. When questioned about why legacy deposits were enabled again, the exchange owner responded unprofessionally and lashed out, leading to the immediate decision to withdraw all funds and liquidity.
+During the Base migration, a bridge exploit occurred due to confirmation settings being set too low. When the issue was reported to NonKYC.io, the exchange owner responded unprofessionally and was unable to communicate effectively. The exchange had previously closed legacy deposits but had reopened them without clear communication. When questioned about why legacy deposits were enabled again, the exchange owner lashed out, leading to the immediate decision to withdraw all funds and liquidity.
 
 ## Delisting
 
