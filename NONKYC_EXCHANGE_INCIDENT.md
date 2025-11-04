@@ -6,7 +6,7 @@ AIPG was delisted from NonKYC.io due to the exchange owner's unprofessional beha
 
 ## Background
 
-During the Base migration, there was an incident where approximately 800k AIPG was minted on Base while still existing on the legacy PoW chain through a bridge exploit. The exchange had previously closed legacy deposits but had reopened them without clear communication. When questioned about why legacy deposits were enabled again, the exchange owner responded unprofessionally and lashed out, leading to the immediate decision to withdraw all funds and liquidity.
+During the Base migration, the exchange had previously closed legacy deposits but had reopened them without clear communication. When questioned about why legacy deposits were enabled again, the exchange owner responded unprofessionally and lashed out, leading to the immediate decision to withdraw all funds and liquidity.
 
 ## Delisting
 
