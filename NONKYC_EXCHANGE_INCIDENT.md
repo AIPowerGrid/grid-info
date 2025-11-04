@@ -31,4 +31,9 @@ The exchange had previously closed legacy deposits but had reopened them without
 - Legacy deposits remain disabled
 - Only Base-native AIPG deposits are accepted
 - Funds and liquidity have been removed from NonKYC.io
+- **AIPG was delisted from NonKYC.io**
+
+## Where to Trade AIPG
+
+AIPG is available for trading on **Uniswap** on Base. For the most up-to-date trading information and liquidity, visit Uniswap and search for AIPG on the Base network.
 
